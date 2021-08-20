@@ -1,0 +1,4 @@
+# Generated August 2021
+
+ansicolors==1.2
+django==3.3.1

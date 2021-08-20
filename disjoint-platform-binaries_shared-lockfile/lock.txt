@@ -1,0 +1,5 @@
+# platforms = [linux-cp37, macos-cp37]
+
+psutil==1.2.2 \
+   --hash=<wheel for linux-cp37>
+   --hash=<wheel for macos-cp37>
